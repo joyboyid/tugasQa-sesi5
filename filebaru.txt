@@ -1,0 +1,6 @@
+program RandomNumbers
+
+deklarasi 
+let RandomNumb = LibraryRandomMath
+
+print RandomNumb
